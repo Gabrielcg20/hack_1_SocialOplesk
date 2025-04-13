@@ -6,7 +6,7 @@
 
 | HACKS | REMARKS | LINK REPOSITORY |
 | ------ | ------ | ------ |
-| HACK_1 | ENVIAR UN COMMIT AL REPOSITORIO REMOTO | ## [GIT_H_1](https://github.com/Gabrielcg20/git_h_1) |
+| HACK_1 | ENVIAR UN COMMIT AL REPOSITORIO REMOTO | [GIT_H_1](https://github.com/Gabrielcg20/git_h_1) |
 | HACK_2 | ENVIAR UN DIRECTORIO VACIO AL REPOSITORIO REMOTO | [GIT_H_2](https://github.com/Gabrielcg20/git_h_2) |
 | HACK_3 | HACER MERGE EN MI MASTER LOCAL Y LUEGO CON MASTER REMOTO | [GIT_H_3](https://github.com/Gabrielcg20/git_h_3) |
 | HACK_4 | EXTRAER ARCHIVO DEL STAGE | [GIT_H_4](https://github.com/Gabrielcg20/git_h_4) |
